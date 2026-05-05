@@ -1,0 +1,44 @@
+{
+  "receipt_id": "f8d47b78-74ff-4695-aeac-1d89def92ac5",
+  "moneyAmount": 53.46,
+  "amountFromDocument": 53.46,
+  "subTotal": 46.49,
+  "totalTax": 6.97,
+  "priceIncludingTax": 53.46,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-05-28T09:51:00",
+  "company": {
+    "name": "PENNY s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Salám turistický 100g",
+      "pricePerUnit": 26.73,
+      "quantity": 2.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 46.49,
+      "tax": 6.97,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 53.46,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 53.46,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

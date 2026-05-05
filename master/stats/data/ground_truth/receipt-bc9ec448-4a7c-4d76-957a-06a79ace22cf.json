@@ -1,0 +1,61 @@
+{
+  "receipt_id": "bc9ec448-4a7c-4d76-957a-06a79ace22cf",
+  "moneyAmount": 79.08,
+  "amountFromDocument": 79.08,
+  "subTotal": 71.89,
+  "totalTax": 7.19,
+  "priceIncludingTax": 79.08,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-02T18:25:00",
+  "company": {
+    "name": "Kaufland Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Tvaroh měkký 250g",
+      "pricePerUnit": 15.75,
+      "quantity": 2.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 28.64,
+      "tax": 2.86,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 31.5,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 31.5,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Čokoláda Milka 100g",
+      "pricePerUnit": 23.79,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 43.25,
+      "tax": 4.33,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 47.58,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 47.58,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

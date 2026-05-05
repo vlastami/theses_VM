@@ -1,0 +1,67 @@
+{
+  "receipt_id": "6be81b1f-7f91-4ae6-a16a-cb5276581225",
+  "moneyAmount": 302.1,
+  "amountFromDocument": 302.1,
+  "subTotal": 249.67,
+  "totalTax": 52.43,
+  "priceIncludingTax": 302.1,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-02-03T19:57:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Havlíčkovo náměstí",
+    "addressStreetNumber": "1199",
+    "addressMunicipality": "Rudná",
+    "addressZip": "25219"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Sprchový gel Nivea 250ml",
+      "pricePerUnit": 68.36,
+      "quantity": 3.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 169.49,
+      "tax": 35.59,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 205.08,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 205.08,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Dětský šampon 250ml",
+      "pricePerUnit": 97.02,
+      "quantity": 1.0,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 80.18,
+      "tax": 16.84,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 97.02,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 97.02,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 4.656,
+    "f1_items": 98.001,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

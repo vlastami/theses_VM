@@ -1,0 +1,84 @@
+{
+  "receipt_id": "0f650b92-6029-480a-9522-e94e505632b9",
+  "moneyAmount": 227.71,
+  "amountFromDocument": 227.71,
+  "subTotal": 194.42,
+  "totalTax": 33.29,
+  "priceIncludingTax": 227.71,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-06-18T08:54:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Bavlněné tampony 100ks",
+      "pricePerUnit": 59.63,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 51.85,
+      "tax": 7.78,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 59.63,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 59.63,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Tělové mléko 250ml",
+      "pricePerUnit": 84.89,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 73.82,
+      "tax": 11.07,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 84.89,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 84.89,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Iba1gin 400mg 24tbl",
+      "pricePerUnit": 83.19,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 68.75,
+      "tax": 14.44,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 83.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 83.19,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.348,
+    "f1_items": 92.763,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

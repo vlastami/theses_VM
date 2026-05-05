@@ -1,0 +1,78 @@
+{
+  "receipt_id": "526ef1a8-05da-401e-9e1e-4050d24d1a58",
+  "moneyAmount": 259.27,
+  "amountFromDocument": 259.27,
+  "subTotal": 233.44,
+  "totalTax": 25.83,
+  "priceIncludingTax": 259.27,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-07-08T14:50:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Brambory vaječné 2kg",
+      "pricePerUnit": 57.26,
+      "quantity": 1.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 49.79,
+      "tax": 7.47,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 57.26,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 57.26,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Toaletní papír 8ks",
+      "pricePerUnit": 66.48,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 60.44,
+      "tax": 6.04,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 66.48,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 66.48,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Vepřová krkovice 1kg",
+      "pricePerUnit": 135.53,
+      "quantity": 1.0,
+      "itemCategory": "Meat",
+      "quantityUnit": "ks",
+      "subTotal": 123.21,
+      "tax": 12.32,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 135.53,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 135.53,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

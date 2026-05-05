@@ -1,0 +1,84 @@
+{
+  "receipt_id": "1582938a-3865-4e6b-b174-c865658774b7",
+  "moneyAmount": 881.84,
+  "amountFromDocument": 881.84,
+  "subTotal": 798.8,
+  "totalTax": 83.04,
+  "priceIncludingTax": 881.84,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-05-23T10:54:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Krém nak ruce Neutrogena",
+      "pricePerUnit": 86.65,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 78.77,
+      "tax": 7.88,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 86.65,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 86.65,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Tělové mléko 250ml",
+      "pricePerUnit": 72.49,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 63.03,
+      "tax": 9.46,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 72.49,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 72.49,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Pleny Pampers 44ks",
+      "pricePerUnit": 361.35,
+      "quantity": 2.0,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 657.0,
+      "tax": 65.7,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 722.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 722.7,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 0.39,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

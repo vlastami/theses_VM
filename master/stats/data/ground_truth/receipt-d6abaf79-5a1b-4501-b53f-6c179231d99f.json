@@ -1,0 +1,78 @@
+{
+  "receipt_id": "d6abaf79-5a1b-4501-b53f-6c179231d99f",
+  "moneyAmount": 2235.84,
+  "amountFromDocument": 2235.84,
+  "subTotal": 1930.97,
+  "totalTax": 304.87,
+  "priceIncludingTax": 2235.84,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-07-13T19:42:00",
+  "company": {
+    "name": "H & M Hennes & Mauritz CZ s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rámeček na foto 21x30",
+      "pricePerUnit": 168.63,
+      "quantity": 3.0,
+      "itemCategory": "Home Decor",
+      "quantityUnit": "ks",
+      "subTotal": 418.09,
+      "tax": 87.8,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 505.89,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 505.89,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Džíny slim 32/32",
+      "pricePerUnit": 723.63,
+      "quantity": 1.0,
+      "itemCategory": "Clothing",
+      "quantityUnit": "ks",
+      "subTotal": 598.04,
+      "tax": 125.59,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 723.63,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 723.63,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Polštář 50x50",
+      "pricePerUnit": 335.44,
+      "quantity": 3.0,
+      "itemCategory": "Home Decor",
+      "quantityUnit": "ks",
+      "subTotal": 914.84,
+      "tax": 91.48,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 1006.32,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1006.32,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

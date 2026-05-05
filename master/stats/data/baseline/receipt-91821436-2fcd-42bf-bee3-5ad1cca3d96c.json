@@ -1,0 +1,106 @@
+{
+  "receipt_id": "91821436-2fcd-42bf-bee3-5ad1cca3d96c",
+  "moneyAmount": 1205.69,
+  "amountFromDocument": 1205.69,
+  "subTotal": 1049.62,
+  "totalTax": 156.07,
+  "priceIncludingTax": 1205.69,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-09T18:44:00",
+  "company": {
+    "name": "MOL Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Red Bull 250ml",
+      "pricePerUnit": 47.09,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 42.81,
+      "tax": 4.28,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 47.09,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 47.09,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Žvýkačky Orbit",
+      "pricePerUnit": 20.37,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 16.83,
+      "tax": 3.54,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 20.37,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 20.37,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Cappuccino",
+      "pricePerUnit": 51.63,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 44.9,
+      "tax": 6.73,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 51.63,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 53.21,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Diesel 28.5l",
+      "pricePerUnit": 1085.02,
+      "quantity": 1.0,
+      "itemCategory": "Fuel",
+      "quantityUnit": "ks",
+      "subTotal": 943.5,
+      "tax": 141.52,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 1085.02,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1085.02,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 1.796,
+    "f1_items": 93.841,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

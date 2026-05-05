@@ -1,0 +1,84 @@
+{
+  "receipt_id": "2d3c966f-a0b7-4cfa-a009-cad4a489fbd3",
+  "moneyAmount": 161.45,
+  "amountFromDocument": 161.45,
+  "subTotal": 134.83,
+  "totalTax": 26.62,
+  "priceIncludingTax": 161.45,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-02-19T12:29:00",
+  "company": {
+    "name": "Tesco Stores ČR a.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Wenceslas Square",
+    "addressStreetNumber": "15",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Pomeranče síťka 1kg",
+      "pricePerUnit": 34.19,
+      "quantity": 2.0,
+      "itemCategory": "Fresh Products",
+      "quantityUnit": "ks",
+      "subTotal": 56.51,
+      "tax": 11.87,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 68.38,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 68.38,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Sáčky do koše 30ks",
+      "pricePerUnit": 30.35,
+      "quantity": 2.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 50.17,
+      "tax": 10.53,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 60.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 60.7,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Coca Cola 1,5l",
+      "pricePerUnit": 32.37,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 28.15,
+      "tax": 4.22,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 32.37,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 32.37,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.46,
+    "f1_items": 94.544,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "receipt_id": "e490f895-78f7-4a66-aa3d-0e33201f49c5",
+  "moneyAmount": 126.18,
+  "amountFromDocument": 126.18,
+  "subTotal": 113.07,
+  "totalTax": 13.11,
+  "priceIncludingTax": 126.18,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-07-03T10:45:00",
+  "company": {
+    "name": "PENNY s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Toaletní papír 8ks",
+      "pricePerUnit": 62.09,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 56.45,
+      "tax": 5.64,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 62.09,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 62.09,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Salám turistický 100g",
+      "pricePerUnit": 22.43,
+      "quantity": 1.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 20.39,
+      "tax": 2.04,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 22.43,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 22.43,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Ricotta 250g",
+      "pricePerUnit": 41.66,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 36.23,
+      "tax": 5.43,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 41.66,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 41.66,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.315,
+    "f1_items": 91.255,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

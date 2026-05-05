@@ -1,0 +1,123 @@
+{
+  "receipt_id": "e80b4211-4ad4-4135-b47e-2327105f3564",
+  "moneyAmount": 84.41,
+  "amountFromDocument": 84.41,
+  "subTotal": 72.47,
+  "totalTax": 11.94,
+  "priceIncludingTax": 84.41,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-04-16T13:49:00",
+  "company": {
+    "name": "Kaufland Česká republika v.os.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "uEidam 45% 100g",
+      "pricePerUnit": 18.44,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 16.03,
+      "tax": 2.41,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 18.44,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 18.44,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 14.68,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 12.77,
+      "tax": 1.91,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 14.68,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 14.68,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Rolik",
+      "pricePerUnit": 3.31,
+      "quantity": 2.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 5.47,
+      "tax": 1.15,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 6.62,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 6.62,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Cibule žlutá 1kg",
+      "pricePerUnit": 18.1,
+      "quantity": 1.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 14.96,
+      "tax": 3.14,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 18.1,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 19.17,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Mléko plnotučné 1l",
+      "pricePerUnit": 25.5,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 22.17,
+      "tax": 3.33,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 25.5,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 25.5,
+      "success": true,
+      "index": 4,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.593,
+    "f1_items": 93.7,
+    "length_category": "short",
+    "n_items_groundtruth": 5
+  }
+}

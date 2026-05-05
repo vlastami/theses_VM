@@ -1,0 +1,44 @@
+{
+  "receipt_id": "2abee706-41aa-4d15-8d24-a7f697f4a961",
+  "moneyAmount": 77.36,
+  "amountFromDocument": 77.36,
+  "subTotal": 70.33,
+  "totalTax": 7.03,
+  "priceIncludingTax": 77.36,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-03-27T19:03:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Jar prostředek 500ml",
+      "pricePerUnit": 38.68,
+      "quantity": 2.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 70.33,
+      "tax": 7.03,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 77.36,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 77.36,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

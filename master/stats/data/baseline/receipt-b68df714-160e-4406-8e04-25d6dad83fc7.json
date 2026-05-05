@@ -1,0 +1,101 @@
+{
+  "receipt_id": "b68df714-160e-4406-8e04-25d6dad83fc7",
+  "moneyAmount": 580.4,
+  "amountFromDocument": 580.4,
+  "subTotal": 504.57,
+  "totalTax": 75.83,
+  "priceIncludingTax": 580.4,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-11T20:01:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Odličovací voda 400ml",
+      "pricePerUnit": 79.3,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 206.87,
+      "tax": 31.03,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 237.9,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 237.9,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Rukavice latex M 100ks",
+      "pricePerUnit": 143.26,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 118.4,
+      "tax": 24.86,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 143.26,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 143.26,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Odličovací voda 400ml",
+      "pricePerUnit": 84.33,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 76.66,
+      "tax": null,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 84.33,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 84.33,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Vitamín C 500mg 60tbl",
+      "pricePerUnit": 114.91,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 94.97,
+      "tax": 19.94,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 114.91,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 114.91,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 4.86,
+    "f1_items": 92.23,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

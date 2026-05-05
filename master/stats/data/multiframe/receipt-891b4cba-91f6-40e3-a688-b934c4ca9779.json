@@ -1,0 +1,67 @@
+{
+  "receipt_id": "891b4cba-91f6-40e3-a688-b934c4ca9779",
+  "moneyAmount": 1485.46,
+  "amountFromDocument": 1485.46,
+  "subTotal": 1291.71,
+  "totalTax": 193.75,
+  "priceIncludingTax": 1485.46,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-13T13:36:00",
+  "company": {
+    "name": "MOL Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Náměstí Míru",
+    "addressStreetNumber": "1",
+    "addressMunicipality": "Praha 2",
+    "addressZip": "12000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Kapalina de ostřikovačů 1l",
+      "pricePerUnit": 45.41,
+      "quantity": null,
+      "itemCategory": "Automotive",
+      "quantityUnit": "ks",
+      "subTotal": 39.49,
+      "tax": 5.92,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 45.41,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 45.41,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Natural 95 34.87l",
+      "pricePerUnit": 1440.05,
+      "quantity": 1.0,
+      "itemCategory": "Fuel",
+      "quantityUnit": "ks",
+      "subTotal": 1252.22,
+      "tax": 187.83,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 1440.05,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1440.05,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 0.71,
+    "f1_items": 95.358,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

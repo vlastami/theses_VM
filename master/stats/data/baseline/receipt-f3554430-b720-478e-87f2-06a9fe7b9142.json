@@ -1,0 +1,106 @@
+{
+  "receipt_id": "f3554430-b720-478e-87f2-06a9fe7b9142",
+  "moneyAmount": 187.29,
+  "amountFromDocument": 187.29,
+  "subTotal": 166.38,
+  "totalTax": 20.91,
+  "priceIncludingTax": 187.29,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-07T21:52:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Náměstí Míru",
+    "addressStreetNumber": "1",
+    "addressMunicipality": "Praha 2",
+    "addressZip": "12000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Café Lungo",
+      "pricePerUnit": 49.07,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 44.61,
+      "tax": 4.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 49.07,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 49.07,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Kapalina do ostřikovačů 1l",
+      "pricePerUnit": 54.86,
+      "quantity": 1.0,
+      "itemCategory": "Automotive",
+      "quantityUnit": "ks",
+      "subTotal": 47.7,
+      "tax": 7.16,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 54.86,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 54.86,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Žvýkačky Orbit",
+      "pricePerUnit": 22.4,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 18.51,
+      "tax": 3.89,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 22.4,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 22.4,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Cappuccino",
+      "pricePerUnit": 59.36,
+      "quantity": null,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 53.96,
+      "tax": 5.4,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 59.36,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 60.96,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 4.336,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "receipt_id": "23a914e4-629d-415c-b6e2-b49dd6e2705c",
+  "moneyAmount": 226.78,
+  "amountFromDocument": 226.78,
+  "subTotal": 192.79,
+  "totalTax": 33.99,
+  "priceIncludingTax": 226.78,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-08T12:52:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Zubní pasta Colgate 75ml",
+      "pricePerUnit": 53.93,
+      "quantity": 3.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 133.71,
+      "tax": 28.08,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 161.79,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 161.79,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Bavlněné tampony 100ks",
+      "pricePerUnit": 64.99,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 59.08,
+      "tax": 5.91,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 64.99,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 64.99,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

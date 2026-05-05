@@ -1,0 +1,140 @@
+{
+  "receipt_id": "dc0fd049-3cd9-4c41-af4d-1f2fefce845a",
+  "moneyAmount": 1320.53,
+  "amountFromDocument": 1320.53,
+  "subTotal": 1133.77,
+  "totalTax": 186.76,
+  "priceIncludingTax": 1320.53,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-02-15T08:05:00",
+  "company": {
+    "name": "Lloyds lékárna s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Paralen 500mg 24tbl",
+      "pricePerUnit": 72.21,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 62.79,
+      "tax": 9.42,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 72.21,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 72.21,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Lněný obvaz 10x6",
+      "pricePerUnit": 28.51,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 24.79,
+      "tax": 3.72,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 28.51,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 28.51,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Proenzí kloubní 60tbl",
+      "pricePerUnit": 389.53,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 338.72,
+      "tax": 50.81,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 389.53,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 389.53,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Nosní sprej",
+      "pricePerUnit": 145.34,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 132.13,
+      "tax": 13.21,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 145.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 156.18,
+      "success": false,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Septonex spray 50ml",
+      "pricePerUnit": 167.54,
+      "quantity": 3.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 415.39,
+      "tax": 87.23,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 502.62,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 502.62,
+      "success": true,
+      "index": 4,
+      "notices": []
+    },
+    {
+      "name": "Vitamín D3 60tbl",
+      "pricePerUnit": 171.48,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 149.11,
+      "tax": 22.37,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 171.48,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 171.48,
+      "success": true,
+      "index": 5,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 6.002,
+    "f1_items": 99.965,
+    "length_category": "short",
+    "n_items_groundtruth": 6
+  }
+}

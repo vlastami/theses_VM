@@ -1,0 +1,50 @@
+{
+  "receipt_id": "16ff01ee-a53e-4fba-9722-d384e59aee18",
+  "moneyAmount": 110.44,
+  "amountFromDocument": 110.44,
+  "subTotal": 96.03,
+  "totalTax": 14.41,
+  "priceIncludingTax": 110.44,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-04-25T18:09:00",
+  "company": {
+    "name": "BILLA, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Brambory vaječné 2kg",
+      "pricePerUnit": 55.22,
+      "quantity": 2.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 96.03,
+      "tax": 14.41,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 110.44,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 110.44,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.908,
+    "f1_items": 91.435,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

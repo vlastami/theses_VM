@@ -1,0 +1,84 @@
+{
+  "receipt_id": "dd7a5dfc-583f-45a9-9c6e-16233f583bd0",
+  "moneyAmount": 738.31,
+  "amountFromDocument": 738.31,
+  "subTotal": 616.07,
+  "totalTax": 122.24,
+  "priceIncludingTax": 738.31,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-03-20T18:03:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rtěnka",
+      "pricePerUnit": 144.24,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 357.62,
+      "tax": 75.1,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 432.72,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 432.72,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Šampon Pantene 400ml",
+      "pricePerUnit": 84.43,
+      "quantity": 2.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 139.55,
+      "tax": 29.31,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 168.86,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 168.86,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Vitamín C 500mg 60tbl",
+      "pricePerUnit": 136.73,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 118.9,
+      "tax": 17.83,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 136.73,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 136.73,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.065,
+    "f1_items": 97.123,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

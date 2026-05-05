@@ -1,0 +1,78 @@
+{
+  "receipt_id": "1f760139-d988-4088-b8f2-529ae42a130d",
+  "moneyAmount": 100.92,
+  "amountFromDocument": 100.92,
+  "subTotal": 87.52,
+  "totalTax": 13.4,
+  "priceIncludingTax": 100.92,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-03-09T10:55:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 14.26,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 25.93,
+      "tax": 2.59,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 28.52,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 28.52,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Těstoviny penne 500g",
+      "pricePerUnit": 21.22,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 19.29,
+      "tax": 1.93,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 21.22,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 21.22,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Chips Lay's 130g",
+      "pricePerUnit": 25.59,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 42.3,
+      "tax": 8.88,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 51.18,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 51.18,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

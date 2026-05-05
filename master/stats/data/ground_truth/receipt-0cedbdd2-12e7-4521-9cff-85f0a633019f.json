@@ -1,0 +1,78 @@
+{
+  "receipt_id": "0cedbdd2-12e7-4521-9cff-85f0a633019f",
+  "moneyAmount": 1212.92,
+  "amountFromDocument": 1212.92,
+  "subTotal": 1055.79,
+  "totalTax": 157.13,
+  "priceIncludingTax": 1212.92,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-10-05T12:11:00",
+  "company": {
+    "name": "MOL Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Red Bull 250ml",
+      "pricePerUnit": 51.42,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 44.71,
+      "tax": 6.71,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 51.42,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 51.42,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Diesel 28.5l",
+      "pricePerUnit": 1134.13,
+      "quantity": 1.0,
+      "itemCategory": "Fuel",
+      "quantityUnit": "ks",
+      "subTotal": 986.2,
+      "tax": 147.93,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 1134.13,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1134.13,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Noviny MF Dnes",
+      "pricePerUnit": 27.37,
+      "quantity": 1.0,
+      "itemCategory": "Other",
+      "quantityUnit": "ks",
+      "subTotal": 24.88,
+      "tax": 2.49,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 27.37,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 27.37,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

@@ -1,0 +1,101 @@
+{
+  "receipt_id": "4f189920-343a-4448-8a0e-a94115149c68",
+  "moneyAmount": 104.72,
+  "amountFromDocument": 104.72,
+  "subTotal": 89.32,
+  "totalTax": 15.4,
+  "priceIncludingTax": 104.72,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-24T14:06:00",
+  "company": {
+    "name": "Lidl Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chips Lay's 130g",
+      "pricePerUnit": 29.19,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 25.38,
+      "tax": 3.81,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 29.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 29.19,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Džus pomeranč 1l",
+      "pricePerUnit": 40.29,
+      "quantity": 1.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 33.3,
+      "tax": 6.99,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 40.29,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 40.29,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 15.07,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 26.21,
+      "tax": 3.93,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 30.14,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 30.14,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Rohlik",
+      "pricePerUnit": 2.55,
+      "quantity": 2.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 4.43,
+      "tax": 0.67,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 5.1,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 5.1,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 4.552,
+    "f1_items": 93.119,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

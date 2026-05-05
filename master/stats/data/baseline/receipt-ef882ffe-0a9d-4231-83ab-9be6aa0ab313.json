@@ -1,0 +1,72 @@
+{
+  "receipt_id": "ef882ffe-0a9d-4231-83ab-9be6aa0ab313",
+  "moneyAmount": 581.66,
+  "amountFromDocument": 581.66,
+  "subTotal": 501.31,
+  "totalTax": 80.35,
+  "priceIncludingTax": 581.66,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-10-28T18:30:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Pleny Pampers 44ks",
+      "pricePerUnit": 360.41,
+      "quantity": 1.0,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 297.86,
+      "tax": 62.55,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 360.41,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 385.91,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Kondicionér Dove 200ml",
+      "pricePerUnit": 65.25,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 177.95,
+      "tax": 17.8,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 195.75,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 195.75,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 1.385,
+    "f1_items": 96.111,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "receipt_id": "fc5ba12a-37dd-4245-b84f-cc8e615717ed",
+  "moneyAmount": 1009.72,
+  "amountFromDocument": 1009.72,
+  "subTotal": 913.99,
+  "totalTax": 95.73,
+  "priceIncludingTax": 1009.72,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-02-05T17:23:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Pleny Pampers 44ks",
+      "pricePerUnit": 330.27,
+      "quantity": 1.0,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 300.25,
+      "tax": 30.02,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 330.27,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 330.27,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Vitamín C 500mg 60tbl",
+      "pricePerUnit": 129.7,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": null,
+      "tax": 16.92,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 129.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 129.7,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Šampon Pantene 400ml",
+      "pricePerUnit": 102.18,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 278.67,
+      "tax": 27.87,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 306.54,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 306.54,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "DeodorantRexona 150ml",
+      "pricePerUnit": 68.54,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 124.62,
+      "tax": 12.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 137.08,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 150.2,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Dětský šampon 250ml",
+      "pricePerUnit": 93.01,
+      "quantity": null,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 84.55,
+      "tax": 8.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 93.01,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 93.01,
+      "success": true,
+      "index": 4,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 1.511,
+    "f1_items": 89.74,
+    "length_category": "short",
+    "n_items_groundtruth": 5
+  }
+}

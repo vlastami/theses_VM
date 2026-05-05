@@ -1,0 +1,101 @@
+{
+  "receipt_id": "c4a0fcfb-07db-4dd2-bc5b-1872a56e67bf",
+  "moneyAmount": 997.57,
+  "amountFromDocument": 997.57,
+  "subTotal": 878.3,
+  "totalTax": 119.27,
+  "priceIncludingTax": 997.57,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-05-28T16:28:00",
+  "company": {
+    "name": "Costa Coffee CZ s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chicken Bucket",
+      "pricePerUnit": 300.19,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 272.9,
+      "tax": 27.29,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 300.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 300.19,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "McChicken",
+      "pricePerUnit": 83.2,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 68.76,
+      "tax": 14.44,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 83.2,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 83.6,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Hranolky velké",
+      "pricePerUnit": 63.76,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 57.96,
+      "tax": 5.8,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 63.76,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 63.76,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Chicken Bucket",
+      "pricePerUnit": 275.01,
+      "quantity": 2.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 478.28,
+      "tax": 71.74,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 550.02,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 550.02,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 0.379,
+    "f1_items": 88.21,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

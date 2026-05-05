@@ -1,0 +1,67 @@
+{
+  "receipt_id": "9eb1c2fc-f2d3-4f47-a0b3-dd33261e7b02",
+  "moneyAmount": 321.81,
+  "amountFromDocument": 321.81,
+  "subTotal": 269.59,
+  "totalTax": 52.22,
+  "priceIncludingTax": 321.81,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-06-03T17:38:00",
+  "company": {
+    "name": "AmRest s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Havlíčkovo náměstí",
+    "addressStreetNumber": "1199",
+    "addressMunicipality": "Rudná",
+    "addressZip": "25219"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Kuřecí wrap",
+      "pricePerUnit": 118.82,
+      "quantity": 2.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 196.4,
+      "tax": 41.24,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 237.64,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 237.64,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Tiramisu",
+      "pricePerUnit": 84.17,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 73.19,
+      "tax": 10.98,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 84.17,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 84.17,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.577,
+    "f1_items": 99.427,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

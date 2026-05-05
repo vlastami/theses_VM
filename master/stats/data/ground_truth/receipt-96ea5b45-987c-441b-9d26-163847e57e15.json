@@ -1,0 +1,44 @@
+{
+  "receipt_id": "96ea5b45-987c-441b-9d26-163847e57e15",
+  "moneyAmount": 62.84,
+  "amountFromDocument": 62.84,
+  "subTotal": 51.93,
+  "totalTax": 10.91,
+  "priceIncludingTax": 62.84,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-11-21T17:38:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Coca Cola 1,5l",
+      "pricePerUnit": 31.42,
+      "quantity": 2.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 51.93,
+      "tax": 10.91,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 62.84,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 62.84,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

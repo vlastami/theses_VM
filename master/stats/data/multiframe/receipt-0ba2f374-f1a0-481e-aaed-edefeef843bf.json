@@ -1,0 +1,101 @@
+{
+  "receipt_id": "0ba2f374-f1a0-481e-aaed-edefeef843bf",
+  "moneyAmount": 1269.92,
+  "amountFromDocument": 1269.92,
+  "subTotal": 1105.89,
+  "totalTax": 164.03,
+  "priceIncludingTax": 1269.92,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-06-17T17:41:00",
+  "company": {
+    "name": "BENU Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Voltaren gel 50g",
+      "pricePerUnit": 336.35,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 277.98,
+      "tax": 58.37,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 336.35,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 336.35,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Nosní sprej",
+      "pricePerUnit": 111.22,
+      "quantity": 2.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 202.22,
+      "tax": 20.22,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 222.44,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 222.44,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Proenzi kloubní 60tbl",
+      "pricePerUnit": 459.5,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 417.73,
+      "tax": 41.77,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 459.5,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 459.5,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Teploměr digitální",
+      "pricePerUnit": 251.63,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 207.96,
+      "tax": 43.67,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 251.63,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 251.63,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.56,
+    "f1_items": 99.965,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

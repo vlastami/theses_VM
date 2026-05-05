@@ -1,0 +1,67 @@
+{
+  "receipt_id": "291f5a3d-4dfb-47ba-930b-93ee6d77b0c6",
+  "moneyAmount": 340.13,
+  "amountFromDocument": 340.13,
+  "subTotal": 307.0,
+  "totalTax": 33.13,
+  "priceIncludingTax": 340.13,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-21T10:20:00",
+  "company": {
+    "name": "AmRest s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chicken Bucket",
+      "pricePerUnit": 284.25,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 258.41,
+      "tax": 25.84,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 284.25,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 284.25,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Coca Cola 0,5l",
+      "pricePerUnit": 55.88,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 48.59,
+      "tax": 7.29,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 55.88,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 55.88,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 5.729,
+    "f1_items": 96.232,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

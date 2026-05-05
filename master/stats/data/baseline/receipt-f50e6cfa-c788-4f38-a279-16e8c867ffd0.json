@@ -1,0 +1,101 @@
+{
+  "receipt_id": "f50e6cfa-c788-4f38-a279-16e8c867ffd0",
+  "moneyAmount": 316.41,
+  "amountFromDocument": 316.41,
+  "subTotal": 276.76,
+  "totalTax": 39.65,
+  "priceIncludingTax": 316.41,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-08-20T09:44:00",
+  "company": {
+    "name": "AmRest Coffee s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Hranolky velké",
+      "pricePerUnit": 52.69,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 43.55,
+      "tax": 9.14,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 52.69,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 52.69,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Espresso",
+      "pricePerUnit": 63.05,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 54.83,
+      "tax": 8.22,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 63.05,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 63.05,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Espress",
+      "pricePerUnit": 48.91,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 40.42,
+      "tax": 8.49,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 48.91,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 48.91,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Caesar salát",
+      "pricePerUnit": 151.76,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 137.96,
+      "tax": 13.8,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 151.76,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 151.76,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.227,
+    "f1_items": 88.673,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

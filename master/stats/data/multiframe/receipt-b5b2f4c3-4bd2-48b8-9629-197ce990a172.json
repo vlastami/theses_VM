@@ -1,0 +1,55 @@
+{
+  "receipt_id": "b5b2f4c3-4bd2-48b8-9629-197ce990a172",
+  "moneyAmount": 20.4,
+  "amountFromDocument": 20.4,
+  "subTotal": 17.97,
+  "totalTax": 2.43,
+  "priceIncludingTax": 20.4,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-14T19:29:00",
+  "company": {
+    "name": "PENNY s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Cibule žlutá 1kg",
+      "pricePerUnit": 18.65,
+      "quantity": 1.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 16.22,
+      "tax": 2.43,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 18.65,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 20.4,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.242,
+    "f1_items": 96.669,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

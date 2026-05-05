@@ -1,0 +1,78 @@
+{
+  "receipt_id": "9eb6e441-72a5-4378-b4c5-ffbba0bb5bfd",
+  "moneyAmount": 733.24,
+  "amountFromDocument": 733.24,
+  "subTotal": 663.94,
+  "totalTax": 69.3,
+  "priceIncludingTax": 733.24,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-04-14T15:32:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Wenceslas Square",
+    "addressStreetNumber": "15",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Šampon Pantene 400ml",
+      "pricePerUnit": 92.82,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 253.15,
+      "tax": 25.31,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 278.46,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 278.46,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Make-up základ 30ml",
+      "pricePerUnit": 193.87,
+      "quantity": 2.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 352.49,
+      "tax": 35.25,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 387.74,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 387.74,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Sprchový gel Nivea 250ml",
+      "pricePerUnit": 67.04,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 58.3,
+      "tax": 8.74,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 67.04,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 67.04,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

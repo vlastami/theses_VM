@@ -1,0 +1,50 @@
+{
+  "receipt_id": "37a13b8a-5cd6-4ffb-9ced-e71c42e7e7df",
+  "moneyAmount": 55.78,
+  "amountFromDocument": 55.78,
+  "subTotal": 46.1,
+  "totalTax": 9.68,
+  "priceIncludingTax": 55.78,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-04-12T16:59:00",
+  "company": {
+    "name": "Shell Czech Republic a.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Kapalina do ostřikovačů 1l",
+      "pricePerUnit": 55.78,
+      "quantity": 1.0,
+      "itemCategory": "Automotive",
+      "quantityUnit": "ks",
+      "subTotal": 46.1,
+      "tax": 9.68,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 55.78,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 55.78,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.063,
+    "f1_items": 99.965,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

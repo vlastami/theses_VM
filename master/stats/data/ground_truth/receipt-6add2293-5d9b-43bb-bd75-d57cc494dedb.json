@@ -1,0 +1,61 @@
+{
+  "receipt_id": "6add2293-5d9b-43bb-bd75-d57cc494dedb",
+  "moneyAmount": 90.32,
+  "amountFromDocument": 90.32,
+  "subTotal": 80.06,
+  "totalTax": 10.26,
+  "priceIncludingTax": 90.32,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-04T12:55:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Salám turistický 100g",
+      "pricePerUnit": 25.82,
+      "quantity": 2.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 44.9,
+      "tax": 6.74,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 51.64,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 51.64,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Džus pomeranč 1l",
+      "pricePerUnit": 38.68,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 35.16,
+      "tax": 3.52,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 38.68,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 38.68,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

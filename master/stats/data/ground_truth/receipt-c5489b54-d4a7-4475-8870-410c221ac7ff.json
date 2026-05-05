@@ -1,0 +1,61 @@
+{
+  "receipt_id": "c5489b54-d4a7-4475-8870-410c221ac7ff",
+  "moneyAmount": 193.35,
+  "amountFromDocument": 193.35,
+  "subTotal": 166.13,
+  "totalTax": 27.22,
+  "priceIncludingTax": 193.35,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-03T21:37:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Kečup Hamé 500g",
+      "pricePerUnit": 38.9,
+      "quantity": 3.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 96.45,
+      "tax": 20.25,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 116.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 116.7,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Banány 1kg",
+      "pricePerUnit": 25.55,
+      "quantity": 3.0,
+      "itemCategory": "Fresh Products",
+      "quantityUnit": "ks",
+      "subTotal": 69.68,
+      "tax": 6.97,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 76.65,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 76.65,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

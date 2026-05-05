@@ -1,0 +1,50 @@
+{
+  "receipt_id": "a338fa5b-b561-4791-a019-dd397790aea7",
+  "moneyAmount": 21.39,
+  "amountFromDocument": null,
+  "subTotal": 18.6,
+  "totalTax": 2.79,
+  "priceIncludingTax": 21.39,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-07-02T13:43:00",
+  "company": {
+    "name": "BILLA, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Cibule žlutá 1kg",
+      "pricePerUnit": 21.39,
+      "quantity": 1.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 18.6,
+      "tax": 2.79,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 21.39,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 21.39,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.816,
+    "f1_items": 84.617,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

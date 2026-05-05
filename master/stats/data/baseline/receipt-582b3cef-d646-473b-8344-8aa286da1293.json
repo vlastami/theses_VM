@@ -1,0 +1,101 @@
+{
+  "receipt_id": "582b3cef-d646-473b-8344-8aa286da1293",
+  "moneyAmount": 2035.21,
+  "amountFromDocument": 2035.21,
+  "subTotal": 1831.27,
+  "totalTax": 203.94,
+  "priceIncludingTax": 2035.21,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-09T13:42:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Café Lungo",
+      "pricePerUnit": 56.75,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 46.9,
+      "tax": 9.85,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 56.75,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 56.75,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Natural 95 34.87l",
+      "pricePerUnit": 1651.32,
+      "quantity": null,
+      "itemCategory": "Fuel",
+      "quantityUnit": "ks",
+      "subTotal": 1501.2,
+      "tax": 150.12,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 1651.32,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1651.32,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Motorový olej 5W-40 1l",
+      "pricePerUnit": 297.13,
+      "quantity": 1.0,
+      "itemCategory": "Automotive",
+      "quantityUnit": "ks",
+      "subTotal": 258.37,
+      "tax": 38.76,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 297.13,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 297.13,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Tyčinka snídaňová",
+      "pricePerUnit": 30.01,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 24.8,
+      "tax": 5.21,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 30.01,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 30.01,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.486,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

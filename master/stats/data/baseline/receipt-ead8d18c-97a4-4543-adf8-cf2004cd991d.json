@@ -1,0 +1,140 @@
+{
+  "receipt_id": "ead8d18c-97a4-4543-adf8-cf2004cd991d",
+  "moneyAmount": 590.55,
+  "amountFromDocument": 590.55,
+  "subTotal": 509.13,
+  "totalTax": 81.42,
+  "priceIncludingTax": 590.55,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-06T18:54:00",
+  "company": {
+    "name": "AmRest Coffee s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Náměstí Míru",
+    "addressStreetNumber": "1",
+    "addressMunicipality": "Praha 2",
+    "addressZip": "12000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Polévka dne",
+      "pricePerUnit": 87.1,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 75.74,
+      "tax": 11.36,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 87.1,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 87.1,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Coca Cola 0,5l",
+      "pricePerUnit": 45.69,
+      "quantity": 2.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 79.46,
+      "tax": 11.92,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 91.38,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 91.38,
+      "success": false,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Croissant máslo",
+      "pricePerUnit": 47.15,
+      "quantity": 3.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 116.9,
+      "tax": 24.55,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 141.45,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 141.45,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Tiramisu",
+      "pricePerUnit": 84.27,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 76.61,
+      "tax": 7.66,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 84.27,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 84.27,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Cheesecake",
+      "pricePerUnit": 84.42,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 76.75,
+      "tax": 7.67,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 84.42,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 84.42,
+      "success": true,
+      "index": 4,
+      "notices": []
+    },
+    {
+      "name": "Cheesecake",
+      "pricePerUnit": 105.24,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 86.98,
+      "tax": 18.26,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 105.24,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 101.93,
+      "success": true,
+      "index": 5,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 4.543,
+    "f1_items": 94.009,
+    "length_category": "short",
+    "n_items_groundtruth": 6
+  }
+}

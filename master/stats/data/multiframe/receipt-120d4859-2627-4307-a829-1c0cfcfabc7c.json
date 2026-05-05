@@ -1,0 +1,67 @@
+{
+  "receipt_id": "120d4859-2627-4307-a829-1c0cfcfabc7c",
+  "moneyAmount": 203.06,
+  "amountFromDocument": 203.06,
+  "subTotal": 183.08,
+  "totalTax": 19.98,
+  "priceIncludingTax": 203.06,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-02-03T16:08:00",
+  "company": {
+    "name": "Kaufland Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Sáčky do koše 30ks",
+      "pricePerUnit": 38.51,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 33.49,
+      "tax": 5.02,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 38.51,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 38.51,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Másloa 250g",
+      "pricePerUnit": 54.85,
+      "quantity": 3.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 149.59,
+      "tax": 14.96,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 164.55,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 164.55,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.3,
+    "f1_items": 90.596,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

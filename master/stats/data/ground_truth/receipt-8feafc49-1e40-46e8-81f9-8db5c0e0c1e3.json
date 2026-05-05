@@ -1,0 +1,61 @@
+{
+  "receipt_id": "8feafc49-1e40-46e8-81f9-8db5c0e0c1e3",
+  "moneyAmount": 113.46,
+  "amountFromDocument": 113.46,
+  "subTotal": 98.66,
+  "totalTax": 14.8,
+  "priceIncludingTax": 113.46,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-15T13:49:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Hot dog",
+      "pricePerUnit": 39.45,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 34.3,
+      "tax": 5.15,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 39.45,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 39.45,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Sendvič šunka sýr",
+      "pricePerUnit": 74.01,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 64.36,
+      "tax": 9.65,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 74.01,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 74.01,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

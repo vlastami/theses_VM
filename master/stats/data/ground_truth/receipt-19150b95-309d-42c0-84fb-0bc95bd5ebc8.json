@@ -1,0 +1,61 @@
+{
+  "receipt_id": "19150b95-309d-42c0-84fb-0bc95bd5ebc8",
+  "moneyAmount": 250.46,
+  "amountFromDocument": 250.46,
+  "subTotal": 221.08,
+  "totalTax": 29.38,
+  "priceIncludingTax": 250.46,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-13T10:10:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Bavlněné tampony 100ks",
+      "pricePerUnit": 56.81,
+      "quantity": 3.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 154.94,
+      "tax": 15.49,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 170.43,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 170.43,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Dětský šampon 250ml",
+      "pricePerUnit": 80.03,
+      "quantity": 1.0,
+      "itemCategory": "Baby Products",
+      "quantityUnit": "ks",
+      "subTotal": 66.14,
+      "tax": 13.89,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 80.03,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 80.03,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

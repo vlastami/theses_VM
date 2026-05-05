@@ -1,0 +1,50 @@
+{
+  "receipt_id": "7798a0cd-7e72-4d5d-8edf-4342b20a888d",
+  "moneyAmount": 20.68,
+  "amountFromDocument": 20.68,
+  "subTotal": 17.98,
+  "totalTax": 2.7,
+  "priceIncludingTax": 20.68,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-04-26T13:41:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Žvýkačky Orbit",
+      "pricePerUnit": 20.68,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 17.98,
+      "tax": 2.7,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 20.68,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 20.68,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.522,
+    "f1_items": 97.684,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

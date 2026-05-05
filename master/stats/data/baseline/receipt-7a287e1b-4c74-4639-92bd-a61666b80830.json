@@ -1,0 +1,50 @@
+{
+  "receipt_id": "7a287e1b-4c74-4639-92bd-a61666b80830",
+  "moneyAmount": 456.75,
+  "amountFromDocument": null,
+  "subTotal": 397.17,
+  "totalTax": 59.58,
+  "priceIncludingTax": 456.75,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-05-09T15:39:00",
+  "company": {
+    "name": "AmRest s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Caesar salát",
+      "pricePerUnit": 152.25,
+      "quantity": null,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 397.17,
+      "tax": 59.58,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 456.75,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 456.75,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.825,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

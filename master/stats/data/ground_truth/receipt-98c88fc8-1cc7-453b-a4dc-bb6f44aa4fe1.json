@@ -1,0 +1,78 @@
+{
+  "receipt_id": "98c88fc8-1cc7-453b-a4dc-bb6f44aa4fe1",
+  "moneyAmount": 308.97,
+  "amountFromDocument": 308.97,
+  "subTotal": 278.65,
+  "totalTax": 30.32,
+  "priceIncludingTax": 308.97,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-11-03T19:16:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Wenceslas Square",
+    "addressStreetNumber": "15",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Ibalgin 400mg 24tbl",
+      "pricePerUnit": 94.12,
+      "quantity": 2.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 171.13,
+      "tax": 17.11,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 188.24,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 188.24,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Bavlněné tampony 100ks",
+      "pricePerUnit": 64.41,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 58.55,
+      "tax": 5.86,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 64.41,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 64.41,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Zubní pasta Colgate 75ml",
+      "pricePerUnit": 56.32,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 48.97,
+      "tax": 7.35,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 56.32,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 56.32,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

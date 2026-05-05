@@ -1,0 +1,50 @@
+{
+  "receipt_id": "e65548f3-cd35-452f-9c00-1f2f47c7c8a1",
+  "moneyAmount": 188.5,
+  "amountFromDocument": 188.5,
+  "subTotal": 163.91,
+  "totalTax": 24.59,
+  "priceIncludingTax": 188.5,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-10-08T18:27:00",
+  "company": {
+    "name": "AmRest s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Havlíčkovo náměstí",
+    "addressStreetNumber": "1199",
+    "addressMunicipality": "Rudná",
+    "addressZip": "25219"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Big Mac menu",
+      "pricePerUnit": 188.5,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 163.91,
+      "tax": 24.59,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 188.5,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 188.5,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 0.751,
+    "f1_items": 93.436,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

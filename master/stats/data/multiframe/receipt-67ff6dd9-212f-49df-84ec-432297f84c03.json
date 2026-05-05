@@ -1,0 +1,50 @@
+{
+  "receipt_id": "67ff6dd9-212f-49df-84ec-432297f84c03",
+  "moneyAmount": 153.24,
+  "amountFromDocument": 153.24,
+  "subTotal": 126.64,
+  "totalTax": 26.6,
+  "priceIncludingTax": 153.24,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-13T12:34:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Deodorant Rexona 150ml",
+      "pricePerUnit": 76.62,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 126.64,
+      "tax": 26.6,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 153.24,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 153.24,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.781,
+    "f1_items": 94.949,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

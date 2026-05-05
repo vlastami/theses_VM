@@ -1,0 +1,67 @@
+{
+  "receipt_id": "a0c53bed-c622-4e78-bc4e-6994e7e160c6",
+  "moneyAmount": 1049.98,
+  "amountFromDocument": 1049.98,
+  "subTotal": 913.03,
+  "totalTax": 136.95,
+  "priceIncludingTax": 1049.98,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-15T12:05:00",
+  "company": {
+    "name": "Costa Coffee CZ s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Havlíčkovo náměstí",
+    "addressStreetNumber": "1199",
+    "addressMunicipality": "Rudná",
+    "addressZip": "25219"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chicken Bucket",
+      "pricePerUnit": 319.93,
+      "quantity": 3.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 834.6,
+      "tax": 125.19,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 959.79,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 959.79,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Polévka dne",
+      "pricePerUnit": 90.19,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 78.43,
+      "tax": 11.76,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 90.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 90.19,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.079,
+    "f1_items": 93.693,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

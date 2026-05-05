@@ -1,0 +1,123 @@
+{
+  "receipt_id": "2ae12ac2-00a9-4996-8cd1-c5cce4df99b8",
+  "moneyAmount": 413.97,
+  "amountFromDocument": 413.97,
+  "subTotal": 367.3,
+  "totalTax": 46.67,
+  "priceIncludingTax": 413.97,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-04-13T12:32:00",
+  "company": {
+    "name": "Albert Česká repulika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Těstoviny penne 500g",
+      "pricePerUnit": 26.36,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 22.92,
+      "tax": 3.44,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 26.36,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 26.36,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Chléb konzumní",
+      "pricePerUnit": 31.02,
+      "quantity": 3.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 84.6,
+      "tax": 8.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 93.06,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 85.57,
+      "success": false,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Uzená klobása 200g",
+      "pricePerUnit": 44.25,
+      "quantity": 2.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 73.14,
+      "tax": 15.36,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 88.5,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 88.5,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Jablka Golden 2kg",
+      "pricePerUnit": 62.28,
+      "quantity": 2.0,
+      "itemCategory": "Fresh Products",
+      "quantityUnit": "ks",
+      "subTotal": 113.24,
+      "tax": 11.32,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 124.56,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 124.56,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Chléb konzumní",
+      "pricePerUnit": 29.66,
+      "quantity": 3.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 80.89,
+      "tax": 8.09,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 88.98,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 88.98,
+      "success": true,
+      "index": 4,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.673,
+    "f1_items": 84.816,
+    "length_category": "short",
+    "n_items_groundtruth": 5
+  }
+}

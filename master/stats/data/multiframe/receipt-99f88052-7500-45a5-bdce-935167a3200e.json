@@ -1,0 +1,101 @@
+{
+  "receipt_id": "99f88052-7500-45a5-bdce-935167a3200e",
+  "moneyAmount": 332.98,
+  "amountFromDocument": 332.98,
+  "subTotal": 299.91,
+  "totalTax": 33.07,
+  "priceIncludingTax": 332.98,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-02-09T14:00:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Jogurt bílý 150g",
+      "pricePerUnit": 9.94,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 8.64,
+      "tax": 1.3,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 9.94,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 9.94,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Prací prášek 2kg",
+      "pricePerUnit": 138.89,
+      "quantity": 2.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 252.53,
+      "tax": 25.25,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 277.78,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 277.78,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Müsli tyčinka",
+      "pricePerUnit": 14.36,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 11.87,
+      "tax": 2.49,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 14.36,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 14.36,
+      "success": false,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Cottage sýr 180g",
+      "pricePerUnit": 30.9,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 26.87,
+      "tax": 4.03,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 30.9,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 30.9,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.73,
+    "f1_items": 92.098,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

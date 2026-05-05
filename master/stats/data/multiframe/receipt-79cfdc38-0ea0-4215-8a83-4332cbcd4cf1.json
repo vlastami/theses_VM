@@ -1,0 +1,106 @@
+{
+  "receipt_id": "79cfdc38-0ea0-4215-8a83-4332cbcd4cf1",
+  "moneyAmount": 500.12,
+  "amountFromDocument": 500.12,
+  "subTotal": 429.26,
+  "totalTax": 70.86,
+  "priceIncludingTax": 500.12,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-07-17T09:00:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Lak na nehty",
+      "pricePerUnit": 102.17,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 266.53,
+      "tax": 39.98,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 306.51,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 306.51,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Zubní pasta Colgate 75ml",
+      "pricePerUnit": 55.78,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 48.5,
+      "tax": 7.28,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 55.78,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 55.78,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Holicí pěna 200ml",
+      "pricePerUnit": 55.12,
+      "quantity": 1.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 45.55,
+      "tax": 9.57,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 55.12,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 57.01,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Odličovací voda 400ml",
+      "pricePerUnit": 80.82,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 66.79,
+      "tax": 14.03,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 80.82,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 80.82,
+      "success": false,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.346,
+    "f1_items": 98.575,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "receipt_id": "8f24ee8c-0b07-4556-97cb-f91f13320e74",
+  "moneyAmount": 127.14,
+  "amountFromDocument": 127.14,
+  "subTotal": 109.79,
+  "totalTax": 17.35,
+  "priceIncludingTax": 127.14,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-04-10T14:51:00",
+  "company": {
+    "name": "Shell Czech Republic a.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Sendvič šunka sýr",
+      "pricePerUnit": 70.07,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 57.91,
+      "tax": 12.16,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 70.07,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 70.07,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Café Lungo",
+      "pricePerUnit": 57.07,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 51.88,
+      "tax": 5.19,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 57.07,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 57.07,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

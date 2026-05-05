@@ -1,0 +1,140 @@
+{
+  "receipt_id": "4d1935bb-96df-4b68-8cb9-8ccd53366e47",
+  "moneyAmount": 692.17,
+  "amountFromDocument": 692.17,
+  "subTotal": 603.0,
+  "totalTax": 89.17,
+  "priceIncludingTax": 692.17,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-06T12:05:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Toaletní papír 8ks",
+      "pricePerUnit": 58.29,
+      "quantity": 3.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 152.06,
+      "tax": 22.81,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 174.87,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 174.87,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Aviváž Lenor 1l",
+      "pricePerUnit": 91.83,
+      "quantity": null,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 75.89,
+      "tax": 15.94,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 91.83,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 91.83,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Bageta",
+      "pricePerUnit": 18.97,
+      "quantity": 3.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 49.49,
+      "tax": 7.42,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 56.91,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 60.95,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Eidam 45% 100g",
+      "pricePerUnit": 20.22,
+      "quantity": 1.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 18.38,
+      "tax": 1.84,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 20.22,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 20.22,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Aviváž Lenor 1l",
+      "pricePerUnit": 94.76,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 86.15,
+      "tax": 8.61,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 94.76,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 94.76,
+      "success": true,
+      "index": 4,
+      "notices": []
+    },
+    {
+      "name": "Aviváž Lenor 1l",
+      "pricePerUnit": 83.18,
+      "quantity": 3.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 216.99,
+      "tax": 32.55,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 249.54,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 249.54,
+      "success": true,
+      "index": 5,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.856,
+    "f1_items": 96.154,
+    "length_category": "short",
+    "n_items_groundtruth": 6
+  }
+}

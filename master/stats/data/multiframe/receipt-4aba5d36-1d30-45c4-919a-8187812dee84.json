@@ -1,0 +1,67 @@
+{
+  "receipt_id": "4aba5d36-1d30-45c4-919a-8187812dee84",
+  "moneyAmount": 310.04,
+  "amountFromDocument": null,
+  "subTotal": 268.99,
+  "totalTax": 41.05,
+  "priceIncludingTax": 310.04,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-03T12:22:00",
+  "company": {
+    "name": "AmRest s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Wenceslas Square",
+    "addressStreetNumber": "15",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Big Mac menu",
+      "pricePerUnit": 154.34,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 140.31,
+      "tax": 14.03,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 154.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 154.34,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Croissant máslo",
+      "pricePerUnit": 51.9,
+      "quantity": 3.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 128.68,
+      "tax": 27.02,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 155.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 155.7,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.777,
+    "f1_items": 95.558,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

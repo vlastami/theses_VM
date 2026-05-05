@@ -1,0 +1,101 @@
+{
+  "receipt_id": "6440da61-9fd2-46ac-95ef-d9107f991fba",
+  "moneyAmount": 642.22,
+  "amountFromDocument": null,
+  "subTotal": 561.76,
+  "totalTax": 80.46,
+  "priceIncludingTax": 642.22,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-31T21:38:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Opletalova",
+    "addressStreetNumber": "37",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Holicí pěna 200ml",
+      "pricePerUnit": 48.39,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 39.99,
+      "tax": 8.4,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 48.39,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 48.39,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Lak na nehty",
+      "pricePerUnit": 79.19,
+      "quantity": 2.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 143.98,
+      "tax": 14.4,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 158.38,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 158.38,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Kondicionér Dove 200ml",
+      "pricePerUnit": 72.25,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 197.05,
+      "tax": 19.7,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 216.75,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 216.75,
+      "success": false,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Deodorant Rexona 150ml",
+      "pricePerUnit": 72.9,
+      "quantity": 3.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 180.74,
+      "tax": 37.96,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 218.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 218.7,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.622,
+    "f1_items": 91.793,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

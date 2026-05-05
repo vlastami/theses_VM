@@ -1,0 +1,89 @@
+{
+  "receipt_id": "4e6ac719-7088-401a-ba43-df176f2fb4e1",
+  "moneyAmount": 3005.33,
+  "amountFromDocument": 3005.33,
+  "subTotal": 2629.81,
+  "totalTax": 375.52,
+  "priceIncludingTax": 3005.33,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-09T12:19:00",
+  "company": {
+    "name": "IKEA Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rendlík 20cm",
+      "pricePerUnit": 773.48,
+      "quantity": 3.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 2017.77,
+      "tax": 302.67,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 2320.44,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 2320.44,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Svíčka vanilková",
+      "pricePerUnit": 175.69,
+      "quantity": 1.0,
+      "itemCategory": "Home Decor",
+      "quantityUnit": "ks",
+      "subTotal": 152.77,
+      "tax": 22.92,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 175.69,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 175.69,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Kuchyňský nůž",
+      "pricePerUnit": 549.18,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 499.25,
+      "tax": 49.93,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 549.18,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 509.2,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 3.22,
+    "f1_items": 94.875,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

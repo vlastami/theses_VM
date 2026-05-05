@@ -1,0 +1,106 @@
+{
+  "receipt_id": "998ed104-094e-47b2-83fc-9a815f5633f9",
+  "moneyAmount": 611.31,
+  "amountFromDocument": 611.31,
+  "subTotal": 511.91,
+  "totalTax": 99.4,
+  "priceIncludingTax": 611.31,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-18T13:41:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Krém na ruce Neutrogena",
+      "pricePerUnit": 89.45,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 77.78,
+      "tax": 11.67,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 89.45,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 89.45,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Kondicionér Dove 200ml",
+      "pricePerUnit": 78.83,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 195.45,
+      "tax": 41.04,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 236.49,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 236.49,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Kondicionér Dove 200ml",
+      "pricePerUnit": 74.57,
+      "quantity": 3.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 184.88,
+      "tax": 38.83,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 223.71,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 223.71,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Sprchový gel Nivea 250ml",
+      "pricePerUnit": 60.26,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 52.4,
+      "tax": 7.86,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 60.26,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 61.66,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 6.004,
+    "f1_items": 93.001,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

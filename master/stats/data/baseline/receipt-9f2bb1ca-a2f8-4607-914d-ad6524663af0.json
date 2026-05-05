@@ -1,0 +1,101 @@
+{
+  "receipt_id": "9f2bb1ca-a2f8-4607-914d-ad6524663af0",
+  "moneyAmount": 184.74,
+  "amountFromDocument": 184.74,
+  "subTotal": 156.96,
+  "totalTax": 27.78,
+  "priceIncludingTax": 184.74,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-06-01T12:25:00",
+  "company": {
+    "name": "Lidl Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 12.94,
+      "quantity": null,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 10.69,
+      "tax": 2.25,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 12.94,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 12.94,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Ricotta 250g",
+      "pricePerUnit": 40.58,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 33.54,
+      "tax": 7.04,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 40.58,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 40.58,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Šunka výběrová 100g",
+      "pricePerUnit": 32.06,
+      "quantity": 1.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 26.5,
+      "tax": 5.56,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 32.06,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 32.06,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Olivový olej 0,5l",
+      "pricePerUnit": 99.16,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 86.23,
+      "tax": 12.93,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 99.16,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 99.16,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.993,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "receipt_id": "1ac0f31d-190a-4f4b-9903-d5d40a2fa0e5",
+  "moneyAmount": 337.0,
+  "amountFromDocument": 337.0,
+  "subTotal": 288.41,
+  "totalTax": 48.59,
+  "priceIncludingTax": 337.0,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-02-27T16:29:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Náměstí Míru",
+    "addressStreetNumber": "1",
+    "addressMunicipality": "Praha 2",
+    "addressZip": "12000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Holicí pěna 200ml",
+      "pricePerUnit": 53.71,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 88.78,
+      "tax": 18.64,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 107.42,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 107.42,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Make-up základ 30ml",
+      "pricePerUnit": 229.58,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 199.63,
+      "tax": 29.95,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 229.58,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 229.58,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.958,
+    "f1_items": 98.628,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

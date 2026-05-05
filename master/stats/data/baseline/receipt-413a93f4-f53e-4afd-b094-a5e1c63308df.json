@@ -1,0 +1,84 @@
+{
+  "receipt_id": "413a93f4-f53e-4afd-b094-a5e1c63308df",
+  "moneyAmount": 83.22,
+  "amountFromDocument": null,
+  "subTotal": 72.41,
+  "totalTax": 10.81,
+  "priceIncludingTax": 83.22,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-10-19T11:27:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rajčata cherry 250g",
+      "pricePerUnit": 39.37,
+      "quantity": 1.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": null,
+      "tax": 6.83,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 39.37,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 39.37,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Minerální voda 1,5l",
+      "pricePerUnit": 13.13,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 11.94,
+      "tax": 1.19,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 13.13,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 13.13,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Odsmaczc Hamé k500g",
+      "pricePerUnit": 30.72,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 27.93,
+      "tax": 2.79,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 30.72,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 30.72,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.378,
+    "f1_items": 91.443,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

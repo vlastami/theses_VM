@@ -1,0 +1,67 @@
+{
+  "receipt_id": "a5ad2952-8e54-48a6-8934-6a3dbb4ad217",
+  "moneyAmount": 189.42,
+  "amountFromDocument": 189.42,
+  "subTotal": 160.11,
+  "totalTax": 29.31,
+  "priceIncludingTax": 189.42,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-04-11T09:28:00",
+  "company": {
+    "name": "dm drogerie markt s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Zubní kartáček",
+      "pricePerUnit": 41.39,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 71.98,
+      "tax": 10.8,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 82.78,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 82.78,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Krém na ruce Neutrogena",
+      "pricePerUnit": 106.64,
+      "quantity": 1.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 88.13,
+      "tax": 18.51,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 106.64,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 106.64,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.285,
+    "f1_items": 99.965,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

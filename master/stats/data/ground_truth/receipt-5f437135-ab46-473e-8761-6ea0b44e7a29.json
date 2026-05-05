@@ -1,0 +1,61 @@
+{
+  "receipt_id": "5f437135-ab46-473e-8761-6ea0b44e7a29",
+  "moneyAmount": 1661.88,
+  "amountFromDocument": 1661.88,
+  "subTotal": 1374.23,
+  "totalTax": 287.65,
+  "priceIncludingTax": 1661.88,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-08-11T21:35:00",
+  "company": {
+    "name": "Orlen Unipetrol RPA s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Natural 95 34.87l",
+      "pricePerUnit": 1643.92,
+      "quantity": 1.0,
+      "itemCategory": "Fuel",
+      "quantityUnit": "ks",
+      "subTotal": 1358.61,
+      "tax": 285.31,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 1643.92,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 1643.92,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Žvýkačky Orbit",
+      "pricePerUnit": 17.96,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 15.62,
+      "tax": 2.34,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 17.96,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 17.96,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

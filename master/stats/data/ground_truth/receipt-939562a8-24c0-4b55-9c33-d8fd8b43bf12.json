@@ -1,0 +1,61 @@
+{
+  "receipt_id": "939562a8-24c0-4b55-9c33-d8fd8b43bf12",
+  "moneyAmount": 60.26,
+  "amountFromDocument": 60.26,
+  "subTotal": 49.8,
+  "totalTax": 10.46,
+  "priceIncludingTax": 60.26,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-11T11:32:00",
+  "company": {
+    "name": "Kaufland Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Evropská",
+    "addressStreetNumber": "846/176a",
+    "addressMunicipality": "Praha 6",
+    "addressZip": "16000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Tvaroh měkký 250g",
+      "pricePerUnit": 14.16,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 11.7,
+      "tax": 2.46,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 14.16,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 14.16,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Těstoviny penne 500g",
+      "pricePerUnit": 23.05,
+      "quantity": 2.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 38.1,
+      "tax": 8.0,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 46.1,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 46.1,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

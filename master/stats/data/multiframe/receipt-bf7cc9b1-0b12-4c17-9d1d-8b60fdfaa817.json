@@ -1,0 +1,84 @@
+{
+  "receipt_id": "bf7cc9b1-0b12-4c17-9d1d-8b60fdfaa817",
+  "moneyAmount": 1027.7,
+  "amountFromDocument": 1027.7,
+  "subTotal": 912.55,
+  "totalTax": 115.15,
+  "priceIncludingTax": 1027.7,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-02T12:54:00",
+  "company": {
+    "name": "Decathlon Czech, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rendlík 20cm",
+      "pricePerUnit": 617.2,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 561.09,
+      "tax": 56.11,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 617.2,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 617.2,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Rámeček na foto 21x30",
+      "pricePerUnit": 127.31,
+      "quantity": 1.0,
+      "itemCategory": "Home Decor",
+      "quantityUnit": "ks",
+      "subTotal": 105.21,
+      "tax": 22.1,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 127.31,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 127.31,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Pelštář 50x50",
+      "pricePerUnit": 283.19,
+      "quantity": 1.0,
+      "itemCategory": "Home Decor",
+      "quantityUnit": "ks",
+      "subTotal": 246.25,
+      "tax": 36.94,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 283.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 283.19,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.822,
+    "f1_items": 98.235,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

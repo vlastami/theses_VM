@@ -1,0 +1,140 @@
+{
+  "receipt_id": "9359783e-78d0-4322-ad39-d3f7c0e559bf",
+  "moneyAmount": 624.43,
+  "amountFromDocument": 624.43,
+  "subTotal": 547.87,
+  "totalTax": 76.56,
+  "priceIncludingTax": 624.43,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-08-12T10:53:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Zubní pasta Colgate 75ml",
+      "pricePerUnit": 57.17,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 103.95,
+      "tax": 10.39,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 114.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 114.34,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Zubní kartáček",
+      "pricePerUnit": 36.03,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 29.78,
+      "tax": 6.25,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 36.03,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 36.03,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Make-up základ 30ml",
+      "pricePerUnit": 225.24,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 195.86,
+      "tax": 29.38,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 225.24,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 225.24,
+      "success": false,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Zubní pasta Colgate 75ml",
+      "pricePerUnit": 48.13,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 39.78,
+      "tax": 8.35,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 48.13,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 43.74,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Deodorant Rexona 150mi",
+      "pricePerUnit": 89.73,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 78.03,
+      "tax": 11.7,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 89.73,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 89.73,
+      "success": true,
+      "index": 4,
+      "notices": []
+    },
+    {
+      "name": "Zubní Kartáček",
+      "pricePerUnit": 38.45,
+      "quantity": 3.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 104.86,
+      "tax": 10.49,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 115.35,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 115.35,
+      "success": true,
+      "index": 5,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 3.366,
+    "f1_items": 95.182,
+    "length_category": "short",
+    "n_items_groundtruth": 6
+  }
+}

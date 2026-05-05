@@ -1,0 +1,50 @@
+{
+  "receipt_id": "3bac958f-93e4-4159-817e-8c51ae5ed960",
+  "moneyAmount": 53.85,
+  "amountFromDocument": 53.85,
+  "subTotal": 46.83,
+  "totalTax": 7.02,
+  "priceIncludingTax": 53.85,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-02-27T13:09:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Red Bull 250ml",
+      "pricePerUnit": 53.85,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 46.83,
+      "tax": 7.02,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 53.85,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 53.85,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.824,
+    "f1_items": 97.877,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

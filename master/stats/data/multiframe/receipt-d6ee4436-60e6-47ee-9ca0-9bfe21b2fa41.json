@@ -1,0 +1,50 @@
+{
+  "receipt_id": "d6ee4436-60e6-47ee-9ca0-9bfe21b2fa41",
+  "moneyAmount": 154.24,
+  "amountFromDocument": 154.24,
+  "subTotal": 127.47,
+  "totalTax": 26.77,
+  "priceIncludingTax": 154.24,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-08-03T19:18:00",
+  "company": {
+    "name": "AmRest Coffee s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "iSub 30cm Italy BMT",
+      "pricePerUnit": 154.24,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 127.47,
+      "tax": 26.77,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 154.24,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 154.24,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.541,
+    "f1_items": 94.77,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

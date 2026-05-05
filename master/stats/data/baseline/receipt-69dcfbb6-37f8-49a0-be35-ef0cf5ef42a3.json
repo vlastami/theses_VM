@@ -1,0 +1,50 @@
+{
+  "receipt_id": "69dcfbb6-37f8-49a0-be35-ef0cf5ef42a3",
+  "moneyAmount": 44.18,
+  "amountFromDocument": 44.18,
+  "subTotal": 40.16,
+  "totalTax": 4.02,
+  "priceIncludingTax": 44.18,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-03-27T14:10:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Bageta",
+      "pricePerUnit": 22.09,
+      "quantity": 2.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 40.16,
+      "tax": 4.02,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 44.18,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 44.18,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.575,
+    "f1_items": 97.549,
+    "length_category": "short",
+    "n_items_groundtruth": 1
+  }
+}

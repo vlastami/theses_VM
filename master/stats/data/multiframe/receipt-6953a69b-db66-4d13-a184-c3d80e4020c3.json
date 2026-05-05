@@ -1,0 +1,89 @@
+{
+  "receipt_id": "6953a69b-db66-4d13-a184-c3d80e4020c3",
+  "moneyAmount": 174.75,
+  "amountFromDocument": 174.75,
+  "subTotal": 147.9,
+  "totalTax": 26.85,
+  "priceIncludingTax": 174.75,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-20T19:30:00",
+  "company": {
+    "name": "PENNY s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Chodov",
+    "addressStreetNumber": "2280/1",
+    "addressMunicipality": "Praha 11",
+    "addressZip": "14900"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Uzená klobása 200g",
+      "pricePerUnit": 41.98,
+      "quantity": 1.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 34.69,
+      "tax": 7.29,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 41.98,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 43.73,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Kečup Hamé 500g",
+      "pricePerUnit": 36.91,
+      "quantity": 2.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 64.19,
+      "tax": 9.63,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 73.82,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 73.82,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Jablka Golden 2kg",
+      "pricePerUnit": 57.2,
+      "quantity": 1.0,
+      "itemCategory": "Fresh Products",
+      "quantityUnit": "ks",
+      "subTotal": 47.27,
+      "tax": 9.93,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 57.2,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 57.2,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.838,
+    "f1_items": 91.996,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

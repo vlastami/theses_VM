@@ -1,0 +1,44 @@
+{
+  "receipt_id": "bb1b7364-7598-4f8a-a8fc-816b16f0c17d",
+  "moneyAmount": 27.07,
+  "amountFromDocument": 27.07,
+  "subTotal": 24.61,
+  "totalTax": 2.46,
+  "priceIncludingTax": 27.07,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-15T11:00:00",
+  "company": {
+    "name": "Lidl Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chléb konzumní",
+      "pricePerUnit": 27.07,
+      "quantity": 1.0,
+      "itemCategory": "Bakery",
+      "quantityUnit": "ks",
+      "subTotal": 24.61,
+      "tax": 2.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 27.07,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 27.07,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

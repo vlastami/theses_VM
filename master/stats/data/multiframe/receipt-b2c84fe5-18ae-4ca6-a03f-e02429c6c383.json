@@ -1,0 +1,67 @@
+{
+  "receipt_id": "b2c84fe5-18ae-4ca6-a03f-e02429c6c383",
+  "moneyAmount": 162.95,
+  "amountFromDocument": 162.95,
+  "subTotal": 148.13,
+  "totalTax": 14.82,
+  "priceIncludingTax": 162.95,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-22T10:08:00",
+  "company": {
+    "name": "Globus ČR, k.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Sáčky do koše 30ks",
+      "pricePerUnit": 29.99,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 27.26,
+      "tax": 2.73,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 29.99,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 29.99,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Uzená klobása 200g",
+      "pricePerUnit": 44.32,
+      "quantity": 3.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 120.87,
+      "tax": 12.09,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 132.96,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 132.96,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 3.121,
+    "f1_items": 90.217,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

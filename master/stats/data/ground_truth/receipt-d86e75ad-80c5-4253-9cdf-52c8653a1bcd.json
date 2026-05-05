@@ -1,0 +1,61 @@
+{
+  "receipt_id": "d86e75ad-80c5-4253-9cdf-52c8653a1bcd",
+  "moneyAmount": 407.59,
+  "amountFromDocument": 407.59,
+  "subTotal": 356.71,
+  "totalTax": 50.88,
+  "priceIncludingTax": 407.59,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-02-06T09:47:00",
+  "company": {
+    "name": "TETA drogerie s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Palladium",
+    "addressStreetNumber": "377/1",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Rukavice latex M 100ks",
+      "pricePerUnit": 167.29,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 138.26,
+      "tax": 29.03,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 167.29,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 167.29,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Vitamín C 500mg 60tbl",
+      "pricePerUnit": 120.15,
+      "quantity": 2.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 218.45,
+      "tax": 21.85,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 240.3,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 240.3,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

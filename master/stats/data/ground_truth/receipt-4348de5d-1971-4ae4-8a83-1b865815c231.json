@@ -1,0 +1,78 @@
+{
+  "receipt_id": "4348de5d-1971-4ae4-8a83-1b865815c231",
+  "moneyAmount": 133.61,
+  "amountFromDocument": 133.61,
+  "subTotal": 118.46,
+  "totalTax": 15.15,
+  "priceIncludingTax": 133.61,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-06-18T16:50:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Havlíčkovo náměstí",
+    "addressStreetNumber": "1199",
+    "addressMunicipality": "Rudná",
+    "addressZip": "25219"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Red Bull 250ml",
+      "pricePerUnit": 47.94,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 41.69,
+      "tax": 6.25,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 47.94,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 47.94,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Noviny MF Dnes",
+      "pricePerUnit": 28.03,
+      "quantity": 1.0,
+      "itemCategory": "Other",
+      "quantityUnit": "ks",
+      "subTotal": 24.37,
+      "tax": 3.66,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 28.03,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 28.03,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Cappuccino",
+      "pricePerUnit": 57.64,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 52.4,
+      "tax": 5.24,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 57.64,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 57.64,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

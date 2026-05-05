@@ -1,0 +1,106 @@
+{
+  "receipt_id": "4b6a00f8-5654-4aac-86cf-a10c0558cc2d",
+  "moneyAmount": 406.51,
+  "amountFromDocument": 406.51,
+  "subTotal": 379.43,
+  "totalTax": 27.08,
+  "priceIncludingTax": 406.51,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-05-02T17:43:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Skandinávská",
+    "addressStreetNumber": "131/1",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15500"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Zubní kartáček",
+      "pricePerUnit": 37.93,
+      "quantity": 2.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 65.97,
+      "tax": 9.89,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 75.86,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 78.2,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Rtěnka",
+      "pricePerUnit": 133.09,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 109.99,
+      "tax": null,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 133.09,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 133.09,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Bavlněné tampony 100ks",
+      "pricePerUnit": 52.23,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 47.48,
+      "tax": 4.75,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 52.23,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 52.23,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Sprchový gel Nivea 250ml",
+      "pricePerUnit": 68.43,
+      "quantity": 2.0,
+      "itemCategory": "Skin Care",
+      "quantityUnit": "ks",
+      "subTotal": 124.42,
+      "tax": 12.44,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 136.86,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 142.99,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 1.658,
+    "f1_items": 93.794,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

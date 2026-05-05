@@ -1,0 +1,84 @@
+{
+  "receipt_id": "1a3ee3a1-7480-44a6-a416-90d4939f7d02",
+  "moneyAmount": 471.54,
+  "amountFromDocument": 471.54,
+  "subTotal": 414.34,
+  "totalTax": 57.2,
+  "priceIncludingTax": 471.54,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-01-27T12:38:00",
+  "company": {
+    "name": "AmRest Coffee s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Caesar salát",
+      "pricePerUnit": 156.01,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 141.83,
+      "tax": 14.18,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 156.01,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 156.01,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Cheeecake",
+      "pricePerUnit": 90.73,
+      "quantity": 3.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 236.69,
+      "tax": 35.5,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 272.19,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 272.19,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Cocra Cola 0,5l",
+      "pricePerUnit": 43.34,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 35.82,
+      "tax": 7.52,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 43.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 43.34,
+      "success": true,
+      "index": 2,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.794,
+    "f1_items": 91.341,
+    "length_category": "short",
+    "n_items_groundtruth": 3
+  }
+}

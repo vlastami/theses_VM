@@ -1,0 +1,67 @@
+{
+  "receipt_id": "31cf8423-3b52-40ae-b102-6ddef57bfeef",
+  "moneyAmount": 53.21,
+  "amountFromDocument": 53.21,
+  "subTotal": 47.34,
+  "totalTax": 5.87,
+  "priceIncludingTax": 53.21,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-04-06T17:51:00",
+  "company": {
+    "name": "PENNY s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Smetana 33% 250ml",
+      "pricePerUnit": 26.15,
+      "quantity": 1.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 22.74,
+      "tax": 3.41,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 26.15,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 26.15,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 13.53,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 24.6,
+      "tax": 2.46,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 27.06,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 27.06,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 7.68,
+    "f1_items": 96.043,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "receipt_id": "b54ec800-2398-4d47-9824-c23126e083b0",
+  "moneyAmount": 230.53,
+  "amountFromDocument": 230.53,
+  "subTotal": 219.41,
+  "totalTax": 11.12,
+  "priceIncludingTax": 230.53,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-11-08T00:00:00",
+  "company": {
+    "name": "Kaufland Česká republika v.o.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Budějovická",
+    "addressStreetNumber": "1667/64",
+    "addressMunicipality": "Praha 4",
+    "addressZip": "14000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Salám turistický 100g",
+      "pricePerUnit": 22.34,
+      "quantity": 1.0,
+      "itemCategory": "Meat Products",
+      "quantityUnit": "ks",
+      "subTotal": 19.43,
+      "tax": 2.91,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 22.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 22.34,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Džus pomeranč 1l",
+      "pricePerUnit": 43.93,
+      "quantity": 3.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 108.92,
+      "tax": null,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 131.79,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 131.79,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Pomeranče síťka 1kg",
+      "pricePerUnit": 44.34,
+      "quantity": 1.0,
+      "itemCategory": "Fresh Products",
+      "quantityUnit": "ks",
+      "subTotal": 40.31,
+      "tax": 4.03,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 44.34,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 44.34,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Kečup Hamé 500g",
+      "pricePerUnit": 32.06,
+      "quantity": 1.0,
+      "itemCategory": "Food and Drink",
+      "quantityUnit": "ks",
+      "subTotal": 27.88,
+      "tax": 4.18,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 32.06,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 32.06,
+      "success": true,
+      "index": 3,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 2.806,
+    "f1_items": 93.456,
+    "length_category": "short",
+    "n_items_groundtruth": 4
+  }
+}

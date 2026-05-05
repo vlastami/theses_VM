@@ -1,0 +1,44 @@
+{
+  "receipt_id": "325e839f-d12d-4aee-b00a-45a2ce866b8b",
+  "moneyAmount": 49.17,
+  "amountFromDocument": 49.17,
+  "subTotal": 44.7,
+  "totalTax": 4.47,
+  "priceIncludingTax": 49.17,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-04-08T10:31:00",
+  "company": {
+    "name": "OMV Česká republika s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Wenceslas Square",
+    "addressStreetNumber": "15",
+    "addressMunicipality": "Praha 1",
+    "addressZip": "11000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Cappuccino",
+      "pricePerUnit": 49.17,
+      "quantity": 1.0,
+      "itemCategory": "Beverages",
+      "quantityUnit": "ks",
+      "subTotal": 44.7,
+      "tax": 4.47,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 49.17,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 49.17,
+      "success": true,
+      "index": 0,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

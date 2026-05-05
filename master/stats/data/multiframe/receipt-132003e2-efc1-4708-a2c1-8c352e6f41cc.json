@@ -1,0 +1,67 @@
+{
+  "receipt_id": "132003e2-efc1-4708-a2c1-8c352e6f41cc",
+  "moneyAmount": 679.97,
+  "amountFromDocument": 679.97,
+  "subTotal": 604.18,
+  "totalTax": 75.79,
+  "priceIncludingTax": 679.97,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-06T11:15:00",
+  "company": {
+    "name": "Dr. Max lékárna s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Nádražní",
+    "addressStreetNumber": "762/32",
+    "addressMunicipality": "Praha 5",
+    "addressZip": "15000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Voltaren gel 50g",
+      "pricePerUnit": 326.65,
+      "quantity": 1.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 296.95,
+      "tax": 29.7,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 326.65,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 326.65,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Proenzi kloubní 60tbl",
+      "pricePerUnit": 353.32,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 307.23,
+      "tax": 46.09,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 353.32,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 353.32,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.3,
+    "f1_items": 94.355,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

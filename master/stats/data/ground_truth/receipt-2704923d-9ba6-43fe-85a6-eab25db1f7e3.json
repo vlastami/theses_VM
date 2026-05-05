@@ -1,0 +1,61 @@
+{
+  "receipt_id": "2704923d-9ba6-43fe-85a6-eab25db1f7e3",
+  "moneyAmount": 126.54,
+  "amountFromDocument": 126.54,
+  "subTotal": 106.44,
+  "totalTax": 20.1,
+  "priceIncludingTax": 126.54,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-08-08T16:20:00",
+  "company": {
+    "name": "Albert Česká republika, s.r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Okurka salátová 1ks",
+      "pricePerUnit": 14.36,
+      "quantity": 3.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 37.46,
+      "tax": 5.62,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 43.08,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 43.08,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Aviváž Lenor 1l",
+      "pricePerUnit": 83.46,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 68.98,
+      "tax": 14.48,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 83.46,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 83.46,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": []
+}

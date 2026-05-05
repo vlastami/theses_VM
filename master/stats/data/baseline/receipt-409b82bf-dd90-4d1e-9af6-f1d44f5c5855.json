@@ -1,0 +1,67 @@
+{
+  "receipt_id": "409b82bf-dd90-4d1e-9af6-f1d44f5c5855",
+  "moneyAmount": 88.78,
+  "amountFromDocument": null,
+  "subTotal": 73.37,
+  "totalTax": 15.41,
+  "priceIncludingTax": 88.78,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-12-18T17:59:00",
+  "company": {
+    "name": "Tesco Stores ČR a.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Sokolovská",
+    "addressStreetNumber": "394/17",
+    "addressMunicipality": "Praha 8",
+    "addressZip": "18600"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Cibule žlutá 1kg",
+      "pricePerUnit": 18.47,
+      "quantity": 3.0,
+      "itemCategory": "Vegetables",
+      "quantityUnit": "ks",
+      "subTotal": 45.79,
+      "tax": 9.62,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 55.41,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 55.41,
+      "success": false,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Sáčky do koše 30ks",
+      "pricePerUnit": 33.37,
+      "quantity": 1.0,
+      "itemCategory": "Household Supplies",
+      "quantityUnit": "ks",
+      "subTotal": 27.58,
+      "tax": 5.79,
+      "taxPercentage": 21.0,
+      "priceIncludingTax": 33.37,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 33.37,
+      "success": true,
+      "index": 1,
+      "notices": []
+    }
+  ],
+  "notices": [],
+  "_metrics": {
+    "cer": 1.782,
+    "f1_items": 87.483,
+    "length_category": "short",
+    "n_items_groundtruth": 2
+  }
+}

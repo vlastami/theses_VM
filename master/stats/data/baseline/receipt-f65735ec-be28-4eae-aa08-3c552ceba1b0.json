@@ -1,0 +1,123 @@
+{
+  "receipt_id": "f65735ec-be28-4eae-aa08-3c552ceba1b0",
+  "moneyAmount": 213.3,
+  "amountFromDocument": 213.3,
+  "subTotal": 191.74,
+  "totalTax": 21.56,
+  "priceIncludingTax": 213.3,
+  "discount": 0.0,
+  "timeFromReceipt": "2024-09-03T21:54:00",
+  "company": {
+    "name": "Tesco Stores ČR a.s.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Argentinská",
+    "addressStreetNumber": "38",
+    "addressMunicipality": "Praha 7",
+    "addressZip": "17000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "ANDROID_RECEIPT_UPLOAD",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Chips Lay's 130g",
+      "pricePerUnit": 29.2,
+      "quantity": 2.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 53.09,
+      "tax": 5.31,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 58.4,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 58.4,
+      "success": true,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Snickers 50g",
+      "pricePerUnit": 14.36,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": 13.05,
+      "tax": 1.31,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 14.36,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 14.36,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "Smetana 33% 250ml",
+      "pricePerUnit": 32.2,
+      "quantity": 3.0,
+      "itemCategory": "Dairy Products",
+      "quantityUnit": "ks",
+      "subTotal": 87.82,
+      "tax": 8.78,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 96.6,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 93.29,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Müsli tyčinka",
+      "pricePerUnit": 12.28,
+      "quantity": 1.0,
+      "itemCategory": "Snacks",
+      "quantityUnit": "ks",
+      "subTotal": null,
+      "tax": 1.6,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 12.28,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 12.28,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Coca Cola 1,5l",
+      "pricePerUnit": 34.97,
+      "quantity": null,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 30.41,
+      "tax": 4.56,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 34.97,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 34.97,
+      "success": true,
+      "index": 4,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 2.374,
+    "f1_items": 96.701,
+    "length_category": "short",
+    "n_items_groundtruth": 5
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "receipt_id": "b5c8d19b-5c53-4ec8-bee7-a2578d9fc14e",
+  "moneyAmount": 701.79,
+  "amountFromDocument": 701.79,
+  "subTotal": 617.98,
+  "totalTax": 83.81,
+  "priceIncludingTax": 701.79,
+  "discount": 0.0,
+  "timeFromReceipt": "2025-01-28T11:19:00",
+  "company": {
+    "name": "ROSSMANN, spol. s r.o.",
+    "companyCountryCode": "CZ"
+  },
+  "shop": {
+    "addressStreet": "Náměstí Míru",
+    "addressStreetNumber": "1",
+    "addressMunicipality": "Praha 2",
+    "addressZip": "12000"
+  },
+  "currency": "CZK",
+  "status": "DONE",
+  "source": "EMAIL",
+  "exchangeRate": null,
+  "items": [
+    {
+      "name": "Vitamín C 500mg 60tbl",
+      "pricePerUnit": 141.05,
+      "quantity": 2.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 245.3,
+      "tax": 36.8,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 282.1,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 282.1,
+      "success": false,
+      "index": 0,
+      "notices": []
+    },
+    {
+      "name": "Zubní kartáček",
+      "pricePerUnit": 41.7,
+      "quantity": 1.0,
+      "itemCategory": "Personal Care",
+      "quantityUnit": "ks",
+      "subTotal": 36.26,
+      "tax": 5.44,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 41.7,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 41.7,
+      "success": true,
+      "index": 1,
+      "notices": []
+    },
+    {
+      "name": "iak na nehty",
+      "pricePerUnit": 86.38,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 75.11,
+      "tax": 11.27,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 86.38,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 86.38,
+      "success": true,
+      "index": 2,
+      "notices": []
+    },
+    {
+      "name": "Rtěnka",
+      "pricePerUnit": 160.96,
+      "quantity": 1.0,
+      "itemCategory": "Cosmetics",
+      "quantityUnit": "ks",
+      "subTotal": 146.33,
+      "tax": 14.63,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 160.96,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 160.96,
+      "success": true,
+      "index": 3,
+      "notices": []
+    },
+    {
+      "name": "Ibalgin 400mg 24tbl",
+      "pricePerUnit": 80.68,
+      "quantity": 1.0,
+      "itemCategory": "Pharmacy",
+      "quantityUnit": "ks",
+      "subTotal": 70.16,
+      "tax": 10.52,
+      "taxPercentage": 15.0,
+      "priceIncludingTax": 80.68,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 73.99,
+      "success": true,
+      "index": 4,
+      "notices": []
+    },
+    {
+      "name": "Náplasti Hartmann 20ks",
+      "pricePerUnit": 56.66,
+      "quantity": 1.0,
+      "itemCategory": "",
+      "quantityUnit": "ks",
+      "subTotal": 51.51,
+      "tax": 5.15,
+      "taxPercentage": 10.0,
+      "priceIncludingTax": 56.66,
+      "discount": null,
+      "discountDescriptive": "",
+      "priceTotal": 56.66,
+      "success": true,
+      "index": 5,
+      "notices": []
+    }
+  ],
+  "notices": [
+    {
+      "type": "TOTAL_AMOUNT_CONFLICT",
+      "status": "NEW"
+    }
+  ],
+  "_metrics": {
+    "cer": 4.591,
+    "f1_items": 100.0,
+    "length_category": "short",
+    "n_items_groundtruth": 6
+  }
+}
